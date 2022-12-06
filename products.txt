@@ -1,0 +1,8 @@
+Ben's Picture,4000.0
+GPU 3080 Ti,1949.86
+Keyboard,89.99
+Microphone,231.18
+Monitor,325.20
+Mouse,38.99
+Speaker,109.31
+USB HD camera,205.49
